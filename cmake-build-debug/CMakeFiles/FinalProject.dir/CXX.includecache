@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Player.cpp
+Player.h
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Player.h
+iostream
+-
+
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Player.h
+iostream
+-
+vector
+-
+
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Room.cpp
+Room.h
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Room.h
+Player.h
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Player.h
+iostream
+-
+fstream
+-
+
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Room.h
+iostream
+-
+fstream
+-
+vector
+-
+Player.h
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Player.h
+
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Setting.cpp
+Setting.h
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Setting.h
+iostream
+-
+fstream
+-
+vector
+-
+
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Setting.h
+Room.h
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Room.h
+iostream
+-
+fstream
+-
+
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/main.cpp
+iostream
+-
+Player.h
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Player.h
+Room.h
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Room.h
+Setting.h
+/Users/austincopley/Desktop/CS Labs/CSCI 261/CLionProjects/FinalProject/Setting.h
+vector
+-
+
