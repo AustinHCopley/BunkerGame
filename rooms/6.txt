@@ -1,0 +1,9 @@
+Crowbar
+You have to walk down a few steps to enter this room, but similar to all the other rooms there is a lack of anything. As you step into the room you hear and feel the squish of the wet floor. Apparently this room was flooded and has not been completely drained, the water is a few inches deep. It would explain why there is water damage all around. There is only one door attached to this room other than where you came from, this time the only numbers are 666.
+3
+Search the room
+Open the door with the numbers 666
+Open the door with missing numbers
+You can see a metallic object poking through the surface of the murky water. You pull it up and it's a crowbar.
+You are able to open the door, but there is a ledge so the water does not escape your current room.
+You take a step and walk through the door.

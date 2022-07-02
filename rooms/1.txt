@@ -1,0 +1,11 @@
+Candlestick
+You enter another concrete room, there is a flickering light hanging from the center of the room. There are two additional doors in this room one is a rusting metal door with a lock, another is a sturdy wood door, with the numbers 316 written on the front. It would appear as though you weren't the only person to be here before. There is a jacket strewn across the floor in a corner.
+4
+Open the rotting wood door
+Open the rusty metal door
+Open the sturdy wood door
+Search the jacket
+The door is unlocked, you move into the next room.
+The door opens with some difficulty, you have to put some effort into it.
+The wood door opens with a creak that makes you jump.
+Inside the pocket of this jacket is a candlestick!

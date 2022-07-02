@@ -1,0 +1,11 @@
+None
+As you enter the room you can smell a strange aroma. It is strong and pungent, you believe it comes from what looks like old moldy carpet. This room was definitely a common area or office at some point. It looks like at some point there was wood paneling along the walls. The also appears to be yet another two doorways. One of the doorways is missing the door, while the other is another sturdy wood door. The door is missing the letters, but it looks like the number 112 was once there.
+4
+Search room
+Walk through the doorway
+Open the sturdy door missing numbers
+Open the sturdy door with the numbers 224
+You can’t find anything of significance besides the awful smell
+You waltz through the open doorway
+Trying to open the door is difficult, but you get it to swing open
+You open this wooden door with ease

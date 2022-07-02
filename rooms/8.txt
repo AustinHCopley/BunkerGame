@@ -1,0 +1,9 @@
+None
+This room is the most desolate yet. You are surrounded by concrete, the only feature is a ladder leading up in the middle of the room.
+3
+Climb the ladder
+Use item
+Leave room
+You climb the ladder and find a hatch at the top, the hatch seems to be locked.
+You decide to hold the key.
+You exit the room.

@@ -1,0 +1,9 @@
+Small-key
+This room looks like it used to be a bathroom, but everything has been gutted. The only thing left is a medicine drawer loosely hanging from the wall and the remains of where pipes used to be, now it is all covered with concrete.
+3
+Search the medicine drawer
+Search the room
+Exit
+In the medicine drawer you find a small key!
+There is nothing else in the room, there are a few old washed up pictures on the floor, you can barely make out the images.
+You leave the room.

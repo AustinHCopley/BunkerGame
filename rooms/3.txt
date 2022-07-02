@@ -1,0 +1,11 @@
+None
+This room is different from the others, The walls are now metal, and you can see rust as though water has been leaking from the walls. There are another two doors in this room. One door resembles the one you just used, this time the room number is 224. The other is a metal door that resembles more of a navy hatch.
+4
+Open the sturdy wooden door with 316
+Open the wooden door with 224
+Open the metal navy door
+Use item
+You open the wooden door, which releases another high pitched squeal.
+You open this wooden door with ease.
+The metal door opens part way, but gets stuck.
+You use a crowbar to pry the metal door open enough for you to get through.

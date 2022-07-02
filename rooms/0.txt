@@ -1,0 +1,7 @@
+None
+As you look around, there is nothing particularly interesting about this room. The gray concrete walls are starting to show some wear. There is an old rotting door facing you, you feel like you could knock it down if you need to. You can see a small rickety mahogany desk tucked into the corner. There appears to be drawers in the desk.
+2
+Move into the next room
+Open the drawer
+The door is unlocked, you move into the next room.
+The drawer opens with a shudder, there is nothing inside.

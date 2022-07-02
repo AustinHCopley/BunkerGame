@@ -1,0 +1,9 @@
+Bandage
+The Room is too dark for you to see in.
+3
+Search the room
+Use item
+Leave
+You trip and hit your head on something, you lose health.
+You use your candle and light up the room, now you can see. You search the room and find an old metal box with what looks like a red cross on it. The box is locked.
+You exit the room.

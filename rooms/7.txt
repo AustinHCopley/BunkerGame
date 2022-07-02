@@ -1,0 +1,7 @@
+Large-key
+Fortunately this room is not flooded, but it is as barren as the others, with concrete walls and an old bookshelf, it feels nice to dry your feet. Conveniently, there is a safe in the middle of the room, and it's open too. How lucky!
+2
+Search safe
+Leave room
+You look through the safe and find nothing but a key, hopefully it opens something.
+You open the door and walk back through to the flooded room.
